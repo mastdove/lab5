@@ -1,0 +1,21 @@
+<!DOCTYPE HTML>
+<html>
+<title>Laba2</title>
+<body>
+<h1><a href="index.html"><b>Личный блог ФИО</b></a></h1>
+<header>
+	<nav>
+	 <ul>
+	<li> <a href="index.html">Головна</a></li>
+	<li> <a href="rozklad.html">Расписание</a></li>
+	<li> <a href="photo.html">Фотогаллерея</a></li>
+ </ul> 
+</nav>
+
+<h1>Последние новости</h1>
+
+<p><img src="npic1.png" width="278" height="175" alt="News"></p>
+	
+</header>
+</body>
+</html>

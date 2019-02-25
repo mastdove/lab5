@@ -1,0 +1,101 @@
+ul {
+  list-style: none; /*убираем маркеры списка*/
+  margin: 0; /*убираем верхнее и нижнее поле, равное 1em*/
+  padding-left: 0; /*убираем левый отступ, равный 40px*/
+}
+a {text-decoration: none;}
+p {
+color: #E667AF;
+font-size:
+}
+
+
+
+nav {
+  display: block;
+  width: 660px;
+  margin: 0 auto 30px;
+}
+.one ul {
+  padding: 1em 0;
+  background: #ECDAD6;
+}
+.one a {
+  padding: 1em;
+  background: rgba(177, 152, 145, .3);
+  border-right: 1px solid #b19891;
+  color: #695753;
+}
+.one a:hover {background: #b19891;}
+.one li {
+  display: inline;
+}
+
+
+
+body {
+color: #CD0074;
+font-size:
+}
+
+a {
+
+color:#980023;
+
+text-decoration:none
+
+}
+
+
+
+a:hover {
+
+color:#E667AF;
+
+text-decoration: underline
+
+}
+
+
+
+#test{
+	color:#FFFFFF;
+}
+
+a:visited {
+
+color:#980023;
+
+text-decoration:none
+
+}
+
+
+body{
+height: 200px;
+background: linear-gradient(45deg, #EECFBA, #C5DDE8);
+}
+
+
+
+
+body { 
+    padding-top: 10px; 
+	padding-bottom: 10px;
+padding-left: 30%;
+padding-right: 30%;
+    margin-top: 10%; 
+margin-bottom: 10%; 
+margin-left: 10%; 
+margin-right: 10%; 
+     
+    display: table; 
+    vertical-align: middle; 
+    height: 100%; 
+    text-align: center; 
+    max-width:40%;
+    min-width:40%;
+} 
+
+
+

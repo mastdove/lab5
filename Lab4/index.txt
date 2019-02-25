@@ -1,0 +1,8 @@
+<!DOCTYPE HTML>
+<html>
+<title>Laba2</title>
+<head>
+</head>
+<body>
+</body>
+</html>

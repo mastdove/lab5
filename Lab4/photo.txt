@@ -1,0 +1,32 @@
+<!DOCTYPE HTML>
+<html>
+<title>Laba2</title>
+<body>
+<h1><a href="index.html"><b>ЛИчный блог ФИО</b></a></h1>
+<header>
+	<nav>
+	 <ul>
+	<li> <a href="news.html">Новости</a></li>
+	<li> <a href="rozklad.html">Расписание</a></li>
+	<li> <a href="index.html">Главная</a></li>
+ </ul> 
+</nav>
+	<p><img src="pic2.jpg" width="150" height="212" alt="Скульптура"></p>
+   <figcaption>Деревянная скульптура</figcaption>
+	<p><img src="pic3.jpg" width="150" height="212" alt="Скульптура"></p>
+   <figcaption>Деревянная скульптура</figcaption>
+<p><img src="pic4.jpg" width="150" height="212" alt="Скульптура"></p>
+   <figcaption>Деревянная скульптура</figcaption>
+<p><img src="pic5.jpg" width="150" height="212" alt="Скульптура"></p>
+   <figcaption>Деревянная скульптура</figcaption>
+<p><img src="pic6.jpg" width="150" height="212" alt="Скульптура"></p>
+   <figcaption>Деревянная скульптура</figcaption>
+<p><img src="pic7.jpg" width="150" height="212" alt="Скульптура"></p>
+   <figcaption>Деревянная скульптура</figcaption>
+<p><img src="pic8.jpg" width="150" height="212" alt="Скульптура"></p>
+   <figcaption>Деревянная скульптура</figcaption>
+<p><img src="pic9.jpg" width="150" height="212" alt="Скульптура"></p>
+   <figcaption>Деревянная скульптура</figcaption>
+</header>
+</body>
+</html>
